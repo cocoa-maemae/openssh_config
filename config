@@ -1,5 +1,6 @@
+# For macos
 Host github.com
   HostName github.com
   User git
-  IdentityFile /Users/tomoki.maeda/.ssh/jfrog_macbook_ed25519.priv
+  IdentityFile /Users/${user_name}/.ssh/${ssh_key_name}
 
