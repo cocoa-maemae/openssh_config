@@ -1,0 +1,5 @@
+Host github.com
+  HostName github.com
+  User git
+  IdentityFile /Users/tomoki.maeda/.ssh/jfrog_macbook_ed25519.priv
+
